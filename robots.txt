@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://shotanor.github.io/sitemap
+Sitemap: https://shotanor.github.io/app/sitemap
+Sitemap: https://shotanor.github.io/assets/sitemap
+Sitemap: https://shotanor.github.io/css/sitemap
+Sitemap: https://shotanor.github.io/includes/sitemap
+Sitemap: https://shotanor.github.io/item/sitemap
+Sitemap: https://shotanor.github.io/src/sitemap
